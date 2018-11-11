@@ -20,24 +20,24 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="60dp"
-            android:text="Create an enterprise" />
+            android:text="Crear empresa" />
 
         <Button
             android:id="@+id/buttonUpdate"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Update an enterprise" />
+            android:text="Actualizar empresa" />
 
         <Button
             android:id="@+id/buttonDelete"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Delete an enterprise" />
+            android:text="Eliminar empresa" />
 
         <Button
             android:id="@+id/buttonViewAll"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="View all enterprises" />
+            android:text="Ver empresas" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
